@@ -6,4 +6,5 @@
 * Docker Compose 1.29 or avove
 
 【Vegrantを使う場合】
+
 [VAGRANT.md](./VAGRANT.md)を参照ください。
